@@ -1,0 +1,15 @@
+newmtl walls
+map_Kd Wall.jpg
+Kd 1 1 1
+d 1
+
+newmtl cieling
+Kd 1 1 1
+d 1
+
+newmtl Wood_Floor
+map_Kd hardwood.jpg
+bump hardwood_normal.jpg
+Kd 1 1 1
+d 1
+
